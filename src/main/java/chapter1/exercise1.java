@@ -10,8 +10,7 @@ import java.util.List;
 
 public class exercise1 {
     public static void main(String[] args) {
-        List<Integer> list = exercise4.createData(exercise2.n, exercise2.k);
-
+        List<Integer> list = exercise4.createData(exercise2.N, exercise2.K);
 
         long stime = System.currentTimeMillis();
 
