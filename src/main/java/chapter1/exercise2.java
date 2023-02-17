@@ -7,8 +7,8 @@ package chapter1;
 public class exercise2 {
 
     private static final int BITSPERWORD = 32;
-    public static final int N = 100000000;
-    public static final int K = 10000000;
+    public static final int N = 1000000;
+    public static final int K = 100000;
 
     public static final int MASK = 0x1F;
     public static final int SHIFT = 5;

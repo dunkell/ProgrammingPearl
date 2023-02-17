@@ -4,18 +4,9 @@ public class test {
     public static void main(String[] args) {
 
 
-        String s = null;
-        if(s.isEmpty())
-            System.out.println(1);
-
-
-        //te(s);
-
-
-
-
-
-
+        int N = 128;
+        int M = N >> 5>> 1 + 1;
+        System.out.println(M);
 
     }
 

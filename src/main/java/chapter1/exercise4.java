@@ -27,7 +27,7 @@ public class exercise4 {
         List<Integer> list = new ArrayList<>();
         Random random = new Random();
 
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n+1; i++) {
             list.add(i);
         }
 
